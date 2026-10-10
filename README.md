@@ -1,1 +1,1 @@
-a repository made for the coding problems i solved during the learning process and afterwards.
+a repository containing the coding problems i solved during the learning process and afterwards.
